@@ -21,9 +21,9 @@
 
 
             Console.Write($"while {userexercise} through the park, {username} saw a squirrel struggling to carry a slice of {favoritepizza} pizza that was twice its size.");
-            Console.Write($"amused, {useridentity} watched the squirrel drag the pizza up a tree, only for it to fall back down. the squirrel didn't give up.");
-            Console.Write($"it ran down, grabbed the pizza, and tried again. this happened several times until the squirrel finally managed to sit with its prize.");
-            Console.Write($"just then, a crow swooped downed down and snatched the pizza away. {username} couldn't help but laugh at the squirrel's confused expression.");
+            Console.Write($"Amused, {useridentity} watched the squirrel drag the pizza up a tree, only for it to fall back down. the squirrel didn't give up.");
+            Console.Write($"It ran down, grabbed the pizza, and tried again. this happened several times until the squirrel finally managed to sit with its prize.");
+            Console.Write($"Just then, a crow swooped downed down and snatched the pizza away. {username} couldn't help but laugh at the squirrel's confused expression.");
             Console.Write($"{useridentity} went to take a rest, read her favorite book called {favoritebook} on her phone, and enjoyed the peaceful ambiance of the park.");
 
 
